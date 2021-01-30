@@ -1,4 +1,4 @@
-# Array
+# Array (zero-indexed)
 
 ## Syntax
 Declared with `[]` and delimited by a `,`. </br> 
@@ -16,7 +16,7 @@ Even if an index (say 5th index) is not defined, using `$myArray[5] = $myValue` 
 ### General
 
 #### >Print
-Use `print_r(**array**)` to display contents of array in a humand readable format
+Use `print_r(**array**)` to display contents of array in a human readable format
 
 #### >Count/Length
 Use `count(**array**)` to get length of array
